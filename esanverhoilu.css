@@ -474,10 +474,15 @@ footer p {
 #services {
   background-image: url("testi.jpg");
   background-size: cover;
+  display: inline;
+
 }
 #about{
   background-image: url("esabg.png");
   background-size: cover;
+  display: inline;
+
+  
 }
 #tours {
   background-image: url("blue.jpg");
@@ -501,4 +506,5 @@ footer p {
     background-image: url("cool.png");
     background-size: cover;
   }
+
 }
