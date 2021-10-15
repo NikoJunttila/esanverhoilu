@@ -484,14 +484,21 @@ footer p {
   background-size: cover;
 }
 #info{
-  background-image: url("cool3.png");
+  background-image: url("testi2.jpg");
   background-size: cover;
   background-color: rgb(212, 136, 22);
 }
 #kuvat{
-  background-image: url("cool4.png");
+  background-image: url("kuvat.jpg");
   background-size: cover;
+  color: whitesmoke;
 }
 #whites{
   color: whitesmoke;
+}
+@media all and (min-width:0px) and (max-width: 1400px) {
+  #about{
+    background-image: url("cool.png");
+    background-size: cover;
+  }
 }
